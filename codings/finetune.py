@@ -72,7 +72,6 @@ sft_config = SFTConfig(
     report_to="none",
     fp16=True,
     optim="paged_adamw_8bit",
-    dataset_text_field="messages",  # ✅ moved here
     max_seq_length=2048,  # ✅ moved here
 )
 
@@ -86,6 +85,7 @@ sft_config = SFTConfig(
 #     max_seq_length=2048,  # Based on model context window
 # )
 print(dataset)
+
 
 trainer = SFTTrainer(
     model=model,
