@@ -1,0 +1,1600 @@
+domain: cybersecurity
+task: e8_to_ism_mapping
+examples:
+- input: Which ISM controls are associated with the Essential Eight strategy 'Patch
+    Applications' for Maturity Level 1 (ML1)?
+  response: 'The strategy ''Patch Applications'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876,
+    ISM-1690, ISM-1691, ISM-1905, ISM-1704.'
+- input: Can you provide the ISM controls for 'Patch Applications' at Maturity Level
+    1 (ML1)?
+  response: 'The strategy ''Patch Applications'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876,
+    ISM-1690, ISM-1691, ISM-1905, ISM-1704.'
+- input: for Maturity Level 1 (ML1), what ISM controls correspond to the strategy
+    'Patch Applications'?
+  response: 'The strategy ''Patch Applications'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876,
+    ISM-1690, ISM-1691, ISM-1905, ISM-1704.'
+- input: What are the ISM mappings for 'Patch Applications' under maturity level M1?
+  response: 'The strategy ''Patch Applications'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876,
+    ISM-1690, ISM-1691, ISM-1905, ISM-1704.'
+- input: I need ISM controls linked to the E8 strategy 'Patch Applications' at Maturity
+    Level 1 (ML1).
+  response: 'The strategy ''Patch Applications'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876,
+    ISM-1690, ISM-1691, ISM-1905, ISM-1704.'
+- input: List the ISM controls applicable to 'Patch Applications' strategy at Maturity
+    Level 1 (ML1).
+  response: 'The strategy ''Patch Applications'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876,
+    ISM-1690, ISM-1691, ISM-1905, ISM-1704.'
+- input: Provide the ISM control list for the E8 strategy 'Patch Applications' when
+    assessed at Maturity Level 1 (ML1).
+  response: 'The strategy ''Patch Applications'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876,
+    ISM-1690, ISM-1691, ISM-1905, ISM-1704.'
+- input: Tell me which ISM controls are linked to 'Patch Applications' for Maturity
+    Level 1 (ML1).
+  response: 'The strategy ''Patch Applications'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876,
+    ISM-1690, ISM-1691, ISM-1905, ISM-1704.'
+- input: How does the strategy 'Patch Applications' align with ISM controls at Maturity
+    Level 1 (ML1)?
+  response: 'The strategy ''Patch Applications'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876,
+    ISM-1690, ISM-1691, ISM-1905, ISM-1704.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Patch
+    Applications' at Maturity Level 1 (ML1).
+  response: 'The strategy ''Patch Applications'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876,
+    ISM-1690, ISM-1691, ISM-1905, ISM-1704.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Patch
+    Operating Systems' for Maturity Level 1 (ML1)?
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 1 (ML1) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: Can you provide the ISM controls for 'Patch Operating Systems' at Maturity
+    Level 1 (ML1)?
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 1 (ML1) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: for Maturity Level 1 (ML1), what ISM controls correspond to the strategy
+    'Patch Operating Systems'?
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 1 (ML1) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: What are the ISM mappings for 'Patch Operating Systems' under maturity level
+    M1?
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 1 (ML1) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: I need ISM controls linked to the E8 strategy 'Patch Operating Systems' at
+    Maturity Level 1 (ML1).
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 1 (ML1) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: List the ISM controls applicable to 'Patch Operating Systems' strategy at
+    Maturity Level 1 (ML1).
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 1 (ML1) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: Provide the ISM control list for the E8 strategy 'Patch Operating Systems'
+    when assessed at Maturity Level 1 (ML1).
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 1 (ML1) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: Tell me which ISM controls are linked to 'Patch Operating Systems' for Maturity
+    Level 1 (ML1).
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 1 (ML1) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: How does the strategy 'Patch Operating Systems' align with ISM controls at
+    Maturity Level 1 (ML1)?
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 1 (ML1) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Patch
+    Operating Systems' at Maturity Level 1 (ML1).
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 1 (ML1) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Multi-factor
+    Authentication' for Maturity Level 1 (ML1)?
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1401.'
+- input: Can you provide the ISM controls for 'Multi-factor Authentication' at Maturity
+    Level 1 (ML1)?
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1401.'
+- input: for Maturity Level 1 (ML1), what ISM controls correspond to the strategy
+    'Multi-factor Authentication'?
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1401.'
+- input: What are the ISM mappings for 'Multi-factor Authentication' under maturity
+    level M1?
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1401.'
+- input: I need ISM controls linked to the E8 strategy 'Multi-factor Authentication'
+    at Maturity Level 1 (ML1).
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1401.'
+- input: List the ISM controls applicable to 'Multi-factor Authentication' strategy
+    at Maturity Level 1 (ML1).
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1401.'
+- input: Provide the ISM control list for the E8 strategy 'Multi-factor Authentication'
+    when assessed at Maturity Level 1 (ML1).
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1401.'
+- input: Tell me which ISM controls are linked to 'Multi-factor Authentication' for
+    Maturity Level 1 (ML1).
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1401.'
+- input: How does the strategy 'Multi-factor Authentication' align with ISM controls
+    at Maturity Level 1 (ML1)?
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1401.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Multi-factor
+    Authentication' at Maturity Level 1 (ML1).
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1401.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Restrict
+    Administrative Privileges' for Maturity Level 1 (ML1)?
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    1 (ML1) maps to the following ISM controls: ISM-1507, ISM-0445, ISM-1175, ISM-1883,
+    ISM-1380, ISM-1688, ISM-1689.'
+- input: Can you provide the ISM controls for 'Restrict Administrative Privileges'
+    at Maturity Level 1 (ML1)?
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    1 (ML1) maps to the following ISM controls: ISM-1507, ISM-0445, ISM-1175, ISM-1883,
+    ISM-1380, ISM-1688, ISM-1689.'
+- input: for Maturity Level 1 (ML1), what ISM controls correspond to the strategy
+    'Restrict Administrative Privileges'?
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    1 (ML1) maps to the following ISM controls: ISM-1507, ISM-0445, ISM-1175, ISM-1883,
+    ISM-1380, ISM-1688, ISM-1689.'
+- input: What are the ISM mappings for 'Restrict Administrative Privileges' under
+    maturity level M1?
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    1 (ML1) maps to the following ISM controls: ISM-1507, ISM-0445, ISM-1175, ISM-1883,
+    ISM-1380, ISM-1688, ISM-1689.'
+- input: I need ISM controls linked to the E8 strategy 'Restrict Administrative Privileges'
+    at Maturity Level 1 (ML1).
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    1 (ML1) maps to the following ISM controls: ISM-1507, ISM-0445, ISM-1175, ISM-1883,
+    ISM-1380, ISM-1688, ISM-1689.'
+- input: List the ISM controls applicable to 'Restrict Administrative Privileges'
+    strategy at Maturity Level 1 (ML1).
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    1 (ML1) maps to the following ISM controls: ISM-1507, ISM-0445, ISM-1175, ISM-1883,
+    ISM-1380, ISM-1688, ISM-1689.'
+- input: Provide the ISM control list for the E8 strategy 'Restrict Administrative
+    Privileges' when assessed at Maturity Level 1 (ML1).
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    1 (ML1) maps to the following ISM controls: ISM-1507, ISM-0445, ISM-1175, ISM-1883,
+    ISM-1380, ISM-1688, ISM-1689.'
+- input: Tell me which ISM controls are linked to 'Restrict Administrative Privileges'
+    for Maturity Level 1 (ML1).
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    1 (ML1) maps to the following ISM controls: ISM-1507, ISM-0445, ISM-1175, ISM-1883,
+    ISM-1380, ISM-1688, ISM-1689.'
+- input: How does the strategy 'Restrict Administrative Privileges' align with ISM
+    controls at Maturity Level 1 (ML1)?
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    1 (ML1) maps to the following ISM controls: ISM-1507, ISM-0445, ISM-1175, ISM-1883,
+    ISM-1380, ISM-1688, ISM-1689.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Restrict
+    Administrative Privileges' at Maturity Level 1 (ML1).
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    1 (ML1) maps to the following ISM controls: ISM-1507, ISM-0445, ISM-1175, ISM-1883,
+    ISM-1380, ISM-1688, ISM-1689.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Application
+    Control' for Maturity Level 1 (ML1)?
+  response: 'The strategy ''Application Control'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-0843, ISM-1870, ISM-1657.'
+- input: Can you provide the ISM controls for 'Application Control' at Maturity Level
+    1 (ML1)?
+  response: 'The strategy ''Application Control'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-0843, ISM-1870, ISM-1657.'
+- input: for Maturity Level 1 (ML1), what ISM controls correspond to the strategy
+    'Application Control'?
+  response: 'The strategy ''Application Control'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-0843, ISM-1870, ISM-1657.'
+- input: What are the ISM mappings for 'Application Control' under maturity level
+    M1?
+  response: 'The strategy ''Application Control'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-0843, ISM-1870, ISM-1657.'
+- input: I need ISM controls linked to the E8 strategy 'Application Control' at Maturity
+    Level 1 (ML1).
+  response: 'The strategy ''Application Control'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-0843, ISM-1870, ISM-1657.'
+- input: List the ISM controls applicable to 'Application Control' strategy at Maturity
+    Level 1 (ML1).
+  response: 'The strategy ''Application Control'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-0843, ISM-1870, ISM-1657.'
+- input: Provide the ISM control list for the E8 strategy 'Application Control' when
+    assessed at Maturity Level 1 (ML1).
+  response: 'The strategy ''Application Control'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-0843, ISM-1870, ISM-1657.'
+- input: Tell me which ISM controls are linked to 'Application Control' for Maturity
+    Level 1 (ML1).
+  response: 'The strategy ''Application Control'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-0843, ISM-1870, ISM-1657.'
+- input: How does the strategy 'Application Control' align with ISM controls at Maturity
+    Level 1 (ML1)?
+  response: 'The strategy ''Application Control'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-0843, ISM-1870, ISM-1657.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Application
+    Control' at Maturity Level 1 (ML1).
+  response: 'The strategy ''Application Control'' at Maturity Level 1 (ML1) maps to
+    the following ISM controls: ISM-0843, ISM-1870, ISM-1657.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Restrict
+    Microsoft Office Macros' for Maturity Level 1 (ML1)?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 1
+    (ML1) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1489.'
+- input: Can you provide the ISM controls for 'Restrict Microsoft Office Macros' at
+    Maturity Level 1 (ML1)?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 1
+    (ML1) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1489.'
+- input: for Maturity Level 1 (ML1), what ISM controls correspond to the strategy
+    'Restrict Microsoft Office Macros'?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 1
+    (ML1) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1489.'
+- input: What are the ISM mappings for 'Restrict Microsoft Office Macros' under maturity
+    level M1?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 1
+    (ML1) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1489.'
+- input: I need ISM controls linked to the E8 strategy 'Restrict Microsoft Office
+    Macros' at Maturity Level 1 (ML1).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 1
+    (ML1) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1489.'
+- input: List the ISM controls applicable to 'Restrict Microsoft Office Macros' strategy
+    at Maturity Level 1 (ML1).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 1
+    (ML1) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1489.'
+- input: Provide the ISM control list for the E8 strategy 'Restrict Microsoft Office
+    Macros' when assessed at Maturity Level 1 (ML1).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 1
+    (ML1) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1489.'
+- input: Tell me which ISM controls are linked to 'Restrict Microsoft Office Macros'
+    for Maturity Level 1 (ML1).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 1
+    (ML1) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1489.'
+- input: How does the strategy 'Restrict Microsoft Office Macros' align with ISM controls
+    at Maturity Level 1 (ML1)?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 1
+    (ML1) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1489.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Restrict
+    Microsoft Office Macros' at Maturity Level 1 (ML1).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 1
+    (ML1) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1489.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'User
+    Application Hardening' for Maturity Level 1 (ML1)?
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1585.'
+- input: Can you provide the ISM controls for 'User Application Hardening' at Maturity
+    Level 1 (ML1)?
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1585.'
+- input: for Maturity Level 1 (ML1), what ISM controls correspond to the strategy
+    'User Application Hardening'?
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1585.'
+- input: What are the ISM mappings for 'User Application Hardening' under maturity
+    level M1?
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1585.'
+- input: I need ISM controls linked to the E8 strategy 'User Application Hardening'
+    at Maturity Level 1 (ML1).
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1585.'
+- input: List the ISM controls applicable to 'User Application Hardening' strategy
+    at Maturity Level 1 (ML1).
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1585.'
+- input: Provide the ISM control list for the E8 strategy 'User Application Hardening'
+    when assessed at Maturity Level 1 (ML1).
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1585.'
+- input: Tell me which ISM controls are linked to 'User Application Hardening' for
+    Maturity Level 1 (ML1).
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1585.'
+- input: How does the strategy 'User Application Hardening' align with ISM controls
+    at Maturity Level 1 (ML1)?
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1585.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'User
+    Application Hardening' at Maturity Level 1 (ML1).
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 1 (ML1)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1585.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Regular
+    Backups' for Maturity Level 1 (ML1)?
+  response: 'The strategy ''Regular Backups'' at Maturity Level 1 (ML1) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814.'
+- input: Can you provide the ISM controls for 'Regular Backups' at Maturity Level
+    1 (ML1)?
+  response: 'The strategy ''Regular Backups'' at Maturity Level 1 (ML1) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814.'
+- input: for Maturity Level 1 (ML1), what ISM controls correspond to the strategy
+    'Regular Backups'?
+  response: 'The strategy ''Regular Backups'' at Maturity Level 1 (ML1) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814.'
+- input: What are the ISM mappings for 'Regular Backups' under maturity level M1?
+  response: 'The strategy ''Regular Backups'' at Maturity Level 1 (ML1) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814.'
+- input: I need ISM controls linked to the E8 strategy 'Regular Backups' at Maturity
+    Level 1 (ML1).
+  response: 'The strategy ''Regular Backups'' at Maturity Level 1 (ML1) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814.'
+- input: List the ISM controls applicable to 'Regular Backups' strategy at Maturity
+    Level 1 (ML1).
+  response: 'The strategy ''Regular Backups'' at Maturity Level 1 (ML1) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814.'
+- input: Provide the ISM control list for the E8 strategy 'Regular Backups' when assessed
+    at Maturity Level 1 (ML1).
+  response: 'The strategy ''Regular Backups'' at Maturity Level 1 (ML1) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814.'
+- input: Tell me which ISM controls are linked to 'Regular Backups' for Maturity Level
+    1 (ML1).
+  response: 'The strategy ''Regular Backups'' at Maturity Level 1 (ML1) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814.'
+- input: How does the strategy 'Regular Backups' align with ISM controls at Maturity
+    Level 1 (ML1)?
+  response: 'The strategy ''Regular Backups'' at Maturity Level 1 (ML1) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Regular
+    Backups' at Maturity Level 1 (ML1).
+  response: 'The strategy ''Regular Backups'' at Maturity Level 1 (ML1) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Patch
+    Applications' at Maturity Level 2 (ML2)?
+  response: 'The strategy ''Patch Applications'' for Maturity Level 2 (ML2) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1691, ISM-1693, ISM-1905, ISM-1704.'
+- input: Can you provide the ISM controls for 'Patch Applications' for Maturity Level
+    2 (ML2)?
+  response: 'The strategy ''Patch Applications'' for Maturity Level 2 (ML2) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1691, ISM-1693, ISM-1905, ISM-1704.'
+- input: at Maturity Level 2 (ML2), what ISM controls correspond to the strategy 'Patch
+    Applications'?
+  response: 'The strategy ''Patch Applications'' for Maturity Level 2 (ML2) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1691, ISM-1693, ISM-1905, ISM-1704.'
+- input: What are the ISM mappings for 'Patch Applications' under maturity level M2?
+  response: 'The strategy ''Patch Applications'' for Maturity Level 2 (ML2) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1691, ISM-1693, ISM-1905, ISM-1704.'
+- input: I need ISM controls linked to the E8 strategy 'Patch Applications' for Maturity
+    Level 2 (ML2).
+  response: 'The strategy ''Patch Applications'' for Maturity Level 2 (ML2) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1691, ISM-1693, ISM-1905, ISM-1704.'
+- input: List the ISM controls applicable to 'Patch Applications' strategy for Maturity
+    Level 2 (ML2).
+  response: 'The strategy ''Patch Applications'' for Maturity Level 2 (ML2) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1691, ISM-1693, ISM-1905, ISM-1704.'
+- input: Provide the ISM control list for the E8 strategy 'Patch Applications' when
+    assessed for Maturity Level 2 (ML2).
+  response: 'The strategy ''Patch Applications'' for Maturity Level 2 (ML2) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1691, ISM-1693, ISM-1905, ISM-1704.'
+- input: Tell me which ISM controls are linked to 'Patch Applications' at Maturity
+    Level 2 (ML2).
+  response: 'The strategy ''Patch Applications'' for Maturity Level 2 (ML2) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1691, ISM-1693, ISM-1905, ISM-1704.'
+- input: How does the strategy 'Patch Applications' align with ISM controls for Maturity
+    Level 2 (ML2)?
+  response: 'The strategy ''Patch Applications'' for Maturity Level 2 (ML2) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1691, ISM-1693, ISM-1905, ISM-1704.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Patch
+    Applications' for Maturity Level 2 (ML2).
+  response: 'The strategy ''Patch Applications'' for Maturity Level 2 (ML2) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1691, ISM-1693, ISM-1905, ISM-1704.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Patch
+    Operating Systems' at Maturity Level 2 (ML2)?
+  response: 'The strategy ''Patch Operating Systems'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: Can you provide the ISM controls for 'Patch Operating Systems' for Maturity
+    Level 2 (ML2)?
+  response: 'The strategy ''Patch Operating Systems'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: at Maturity Level 2 (ML2), what ISM controls correspond to the strategy 'Patch
+    Operating Systems'?
+  response: 'The strategy ''Patch Operating Systems'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: What are the ISM mappings for 'Patch Operating Systems' under maturity level
+    M2?
+  response: 'The strategy ''Patch Operating Systems'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: I need ISM controls linked to the E8 strategy 'Patch Operating Systems' for
+    Maturity Level 2 (ML2).
+  response: 'The strategy ''Patch Operating Systems'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: List the ISM controls applicable to 'Patch Operating Systems' strategy for
+    Maturity Level 2 (ML2).
+  response: 'The strategy ''Patch Operating Systems'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: Provide the ISM control list for the E8 strategy 'Patch Operating Systems'
+    when assessed for Maturity Level 2 (ML2).
+  response: 'The strategy ''Patch Operating Systems'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: Tell me which ISM controls are linked to 'Patch Operating Systems' at Maturity
+    Level 2 (ML2).
+  response: 'The strategy ''Patch Operating Systems'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: How does the strategy 'Patch Operating Systems' align with ISM controls for
+    Maturity Level 2 (ML2)?
+  response: 'The strategy ''Patch Operating Systems'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Patch
+    Operating Systems' for Maturity Level 2 (ML2).
+  response: 'The strategy ''Patch Operating Systems'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1877,
+    ISM-1694, ISM-1695, ISM-1501.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Multi-factor
+    Authentication' at Maturity Level 2 (ML2)?
+  response: 'The strategy ''Multi-factor Authentication'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1401, ISM-1872, ISM-1873, ISM-1682, ISM-1683,
+    ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Can you provide the ISM controls for 'Multi-factor Authentication' for Maturity
+    Level 2 (ML2)?
+  response: 'The strategy ''Multi-factor Authentication'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1401, ISM-1872, ISM-1873, ISM-1682, ISM-1683,
+    ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: at Maturity Level 2 (ML2), what ISM controls correspond to the strategy 'Multi-factor
+    Authentication'?
+  response: 'The strategy ''Multi-factor Authentication'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1401, ISM-1872, ISM-1873, ISM-1682, ISM-1683,
+    ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: What are the ISM mappings for 'Multi-factor Authentication' under maturity
+    level M2?
+  response: 'The strategy ''Multi-factor Authentication'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1401, ISM-1872, ISM-1873, ISM-1682, ISM-1683,
+    ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: I need ISM controls linked to the E8 strategy 'Multi-factor Authentication'
+    for Maturity Level 2 (ML2).
+  response: 'The strategy ''Multi-factor Authentication'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1401, ISM-1872, ISM-1873, ISM-1682, ISM-1683,
+    ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: List the ISM controls applicable to 'Multi-factor Authentication' strategy
+    for Maturity Level 2 (ML2).
+  response: 'The strategy ''Multi-factor Authentication'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1401, ISM-1872, ISM-1873, ISM-1682, ISM-1683,
+    ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Provide the ISM control list for the E8 strategy 'Multi-factor Authentication'
+    when assessed for Maturity Level 2 (ML2).
+  response: 'The strategy ''Multi-factor Authentication'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1401, ISM-1872, ISM-1873, ISM-1682, ISM-1683,
+    ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Tell me which ISM controls are linked to 'Multi-factor Authentication' at
+    Maturity Level 2 (ML2).
+  response: 'The strategy ''Multi-factor Authentication'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1401, ISM-1872, ISM-1873, ISM-1682, ISM-1683,
+    ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: How does the strategy 'Multi-factor Authentication' align with ISM controls
+    for Maturity Level 2 (ML2)?
+  response: 'The strategy ''Multi-factor Authentication'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1401, ISM-1872, ISM-1873, ISM-1682, ISM-1683,
+    ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Multi-factor
+    Authentication' for Maturity Level 2 (ML2).
+  response: 'The strategy ''Multi-factor Authentication'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1401, ISM-1872, ISM-1873, ISM-1682, ISM-1683,
+    ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Restrict
+    Administrative Privileges' at Maturity Level 2 (ML2)?
+  response: 'The strategy ''Restrict Administrative Privileges'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1175, ISM-1883, ISM-1380, ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Can you provide the ISM controls for 'Restrict Administrative Privileges'
+    for Maturity Level 2 (ML2)?
+  response: 'The strategy ''Restrict Administrative Privileges'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1175, ISM-1883, ISM-1380, ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: at Maturity Level 2 (ML2), what ISM controls correspond to the strategy 'Restrict
+    Administrative Privileges'?
+  response: 'The strategy ''Restrict Administrative Privileges'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1175, ISM-1883, ISM-1380, ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: What are the ISM mappings for 'Restrict Administrative Privileges' under
+    maturity level M2?
+  response: 'The strategy ''Restrict Administrative Privileges'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1175, ISM-1883, ISM-1380, ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: I need ISM controls linked to the E8 strategy 'Restrict Administrative Privileges'
+    for Maturity Level 2 (ML2).
+  response: 'The strategy ''Restrict Administrative Privileges'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1175, ISM-1883, ISM-1380, ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: List the ISM controls applicable to 'Restrict Administrative Privileges'
+    strategy for Maturity Level 2 (ML2).
+  response: 'The strategy ''Restrict Administrative Privileges'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1175, ISM-1883, ISM-1380, ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Provide the ISM control list for the E8 strategy 'Restrict Administrative
+    Privileges' when assessed for Maturity Level 2 (ML2).
+  response: 'The strategy ''Restrict Administrative Privileges'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1175, ISM-1883, ISM-1380, ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Tell me which ISM controls are linked to 'Restrict Administrative Privileges'
+    at Maturity Level 2 (ML2).
+  response: 'The strategy ''Restrict Administrative Privileges'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1175, ISM-1883, ISM-1380, ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: How does the strategy 'Restrict Administrative Privileges' align with ISM
+    controls for Maturity Level 2 (ML2)?
+  response: 'The strategy ''Restrict Administrative Privileges'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1175, ISM-1883, ISM-1380, ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Restrict
+    Administrative Privileges' for Maturity Level 2 (ML2).
+  response: 'The strategy ''Restrict Administrative Privileges'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1175, ISM-1883, ISM-1380, ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Application
+    Control' at Maturity Level 2 (ML2)?
+  response: 'The strategy ''Application Control'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657,
+    ISM-1544, ISM-1582, ISM-1660, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Can you provide the ISM controls for 'Application Control' for Maturity Level
+    2 (ML2)?
+  response: 'The strategy ''Application Control'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657,
+    ISM-1544, ISM-1582, ISM-1660, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: at Maturity Level 2 (ML2), what ISM controls correspond to the strategy 'Application
+    Control'?
+  response: 'The strategy ''Application Control'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657,
+    ISM-1544, ISM-1582, ISM-1660, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: What are the ISM mappings for 'Application Control' under maturity level
+    M2?
+  response: 'The strategy ''Application Control'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657,
+    ISM-1544, ISM-1582, ISM-1660, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: I need ISM controls linked to the E8 strategy 'Application Control' for Maturity
+    Level 2 (ML2).
+  response: 'The strategy ''Application Control'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657,
+    ISM-1544, ISM-1582, ISM-1660, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: List the ISM controls applicable to 'Application Control' strategy for Maturity
+    Level 2 (ML2).
+  response: 'The strategy ''Application Control'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657,
+    ISM-1544, ISM-1582, ISM-1660, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Provide the ISM control list for the E8 strategy 'Application Control' when
+    assessed for Maturity Level 2 (ML2).
+  response: 'The strategy ''Application Control'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657,
+    ISM-1544, ISM-1582, ISM-1660, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Tell me which ISM controls are linked to 'Application Control' at Maturity
+    Level 2 (ML2).
+  response: 'The strategy ''Application Control'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657,
+    ISM-1544, ISM-1582, ISM-1660, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: How does the strategy 'Application Control' align with ISM controls for Maturity
+    Level 2 (ML2)?
+  response: 'The strategy ''Application Control'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657,
+    ISM-1544, ISM-1582, ISM-1660, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Application
+    Control' for Maturity Level 2 (ML2).
+  response: 'The strategy ''Application Control'' for Maturity Level 2 (ML2) maps
+    to the following ISM controls: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657,
+    ISM-1544, ISM-1582, ISM-1660, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Restrict
+    Microsoft Office Macros' at Maturity Level 2 (ML2)?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1673,
+    ISM-1489.'
+- input: Can you provide the ISM controls for 'Restrict Microsoft Office Macros' for
+    Maturity Level 2 (ML2)?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1673,
+    ISM-1489.'
+- input: at Maturity Level 2 (ML2), what ISM controls correspond to the strategy 'Restrict
+    Microsoft Office Macros'?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1673,
+    ISM-1489.'
+- input: What are the ISM mappings for 'Restrict Microsoft Office Macros' under maturity
+    level M2?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1673,
+    ISM-1489.'
+- input: I need ISM controls linked to the E8 strategy 'Restrict Microsoft Office
+    Macros' for Maturity Level 2 (ML2).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1673,
+    ISM-1489.'
+- input: List the ISM controls applicable to 'Restrict Microsoft Office Macros' strategy
+    for Maturity Level 2 (ML2).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1673,
+    ISM-1489.'
+- input: Provide the ISM control list for the E8 strategy 'Restrict Microsoft Office
+    Macros' when assessed for Maturity Level 2 (ML2).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1673,
+    ISM-1489.'
+- input: Tell me which ISM controls are linked to 'Restrict Microsoft Office Macros'
+    at Maturity Level 2 (ML2).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1673,
+    ISM-1489.'
+- input: How does the strategy 'Restrict Microsoft Office Macros' align with ISM controls
+    for Maturity Level 2 (ML2)?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1673,
+    ISM-1489.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Restrict
+    Microsoft Office Macros' for Maturity Level 2 (ML2).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' for Maturity Level
+    2 (ML2) maps to the following ISM controls: ISM-1671, ISM-1488, ISM-1672, ISM-1673,
+    ISM-1489.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'User
+    Application Hardening' at Maturity Level 2 (ML2)?
+  response: 'The strategy ''User Application Hardening'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1623, ISM-1889, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Can you provide the ISM controls for 'User Application Hardening' for Maturity
+    Level 2 (ML2)?
+  response: 'The strategy ''User Application Hardening'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1623, ISM-1889, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: at Maturity Level 2 (ML2), what ISM controls correspond to the strategy 'User
+    Application Hardening'?
+  response: 'The strategy ''User Application Hardening'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1623, ISM-1889, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: What are the ISM mappings for 'User Application Hardening' under maturity
+    level M2?
+  response: 'The strategy ''User Application Hardening'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1623, ISM-1889, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: I need ISM controls linked to the E8 strategy 'User Application Hardening'
+    for Maturity Level 2 (ML2).
+  response: 'The strategy ''User Application Hardening'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1623, ISM-1889, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: List the ISM controls applicable to 'User Application Hardening' strategy
+    for Maturity Level 2 (ML2).
+  response: 'The strategy ''User Application Hardening'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1623, ISM-1889, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Provide the ISM control list for the E8 strategy 'User Application Hardening'
+    when assessed for Maturity Level 2 (ML2).
+  response: 'The strategy ''User Application Hardening'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1623, ISM-1889, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Tell me which ISM controls are linked to 'User Application Hardening' at
+    Maturity Level 2 (ML2).
+  response: 'The strategy ''User Application Hardening'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1623, ISM-1889, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: How does the strategy 'User Application Hardening' align with ISM controls
+    for Maturity Level 2 (ML2)?
+  response: 'The strategy ''User Application Hardening'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1623, ISM-1889, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'User
+    Application Hardening' for Maturity Level 2 (ML2).
+  response: 'The strategy ''User Application Hardening'' for Maturity Level 2 (ML2)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1623, ISM-1889, ISM-1815, ISM-1906, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Regular
+    Backups' at Maturity Level 2 (ML2)?
+  response: 'The strategy ''Regular Backups'' for Maturity Level 2 (ML2) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705,
+    ISM-1814, ISM-1707.'
+- input: Can you provide the ISM controls for 'Regular Backups' for Maturity Level
+    2 (ML2)?
+  response: 'The strategy ''Regular Backups'' for Maturity Level 2 (ML2) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705,
+    ISM-1814, ISM-1707.'
+- input: at Maturity Level 2 (ML2), what ISM controls correspond to the strategy 'Regular
+    Backups'?
+  response: 'The strategy ''Regular Backups'' for Maturity Level 2 (ML2) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705,
+    ISM-1814, ISM-1707.'
+- input: What are the ISM mappings for 'Regular Backups' under maturity level M2?
+  response: 'The strategy ''Regular Backups'' for Maturity Level 2 (ML2) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705,
+    ISM-1814, ISM-1707.'
+- input: I need ISM controls linked to the E8 strategy 'Regular Backups' for Maturity
+    Level 2 (ML2).
+  response: 'The strategy ''Regular Backups'' for Maturity Level 2 (ML2) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705,
+    ISM-1814, ISM-1707.'
+- input: List the ISM controls applicable to 'Regular Backups' strategy for Maturity
+    Level 2 (ML2).
+  response: 'The strategy ''Regular Backups'' for Maturity Level 2 (ML2) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705,
+    ISM-1814, ISM-1707.'
+- input: Provide the ISM control list for the E8 strategy 'Regular Backups' when assessed
+    for Maturity Level 2 (ML2).
+  response: 'The strategy ''Regular Backups'' for Maturity Level 2 (ML2) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705,
+    ISM-1814, ISM-1707.'
+- input: Tell me which ISM controls are linked to 'Regular Backups' at Maturity Level
+    2 (ML2).
+  response: 'The strategy ''Regular Backups'' for Maturity Level 2 (ML2) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705,
+    ISM-1814, ISM-1707.'
+- input: How does the strategy 'Regular Backups' align with ISM controls for Maturity
+    Level 2 (ML2)?
+  response: 'The strategy ''Regular Backups'' for Maturity Level 2 (ML2) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705,
+    ISM-1814, ISM-1707.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Regular
+    Backups' for Maturity Level 2 (ML2).
+  response: 'The strategy ''Regular Backups'' for Maturity Level 2 (ML2) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705,
+    ISM-1814, ISM-1707.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Patch
+    Applications' for Maturity Level 3 (ML3)?
+  response: 'The strategy ''Patch Applications'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304.'
+- input: Can you provide the ISM controls for 'Patch Applications' at Maturity Level
+    3 (ML3)?
+  response: 'The strategy ''Patch Applications'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304.'
+- input: for Maturity Level 3 (ML3), what ISM controls correspond to the strategy
+    'Patch Applications'?
+  response: 'The strategy ''Patch Applications'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304.'
+- input: What are the ISM mappings for 'Patch Applications' under maturity level M3?
+  response: 'The strategy ''Patch Applications'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304.'
+- input: I need ISM controls linked to the E8 strategy 'Patch Applications' at Maturity
+    Level 3 (ML3).
+  response: 'The strategy ''Patch Applications'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304.'
+- input: List the ISM controls applicable to 'Patch Applications' strategy at Maturity
+    Level 3 (ML3).
+  response: 'The strategy ''Patch Applications'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304.'
+- input: Provide the ISM control list for the E8 strategy 'Patch Applications' when
+    assessed at Maturity Level 3 (ML3).
+  response: 'The strategy ''Patch Applications'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304.'
+- input: Tell me which ISM controls are linked to 'Patch Applications' for Maturity
+    Level 3 (ML3).
+  response: 'The strategy ''Patch Applications'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304.'
+- input: How does the strategy 'Patch Applications' align with ISM controls at Maturity
+    Level 3 (ML3)?
+  response: 'The strategy ''Patch Applications'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Patch
+    Applications' at Maturity Level 3 (ML3).
+  response: 'The strategy ''Patch Applications'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700,
+    ISM-1876, ISM-1690, ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Patch
+    Operating Systems' for Maturity Level 3 (ML3)?
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 3 (ML3) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1703,
+    ISM-1900, ISM-1877, ISM-1694, ISM-1696, ISM-1902, ISM-1879, ISM-1697, ISM-1903,
+    ISM-1904, ISM-1407, ISM-1501.'
+- input: Can you provide the ISM controls for 'Patch Operating Systems' at Maturity
+    Level 3 (ML3)?
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 3 (ML3) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1703,
+    ISM-1900, ISM-1877, ISM-1694, ISM-1696, ISM-1902, ISM-1879, ISM-1697, ISM-1903,
+    ISM-1904, ISM-1407, ISM-1501.'
+- input: for Maturity Level 3 (ML3), what ISM controls correspond to the strategy
+    'Patch Operating Systems'?
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 3 (ML3) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1703,
+    ISM-1900, ISM-1877, ISM-1694, ISM-1696, ISM-1902, ISM-1879, ISM-1697, ISM-1903,
+    ISM-1904, ISM-1407, ISM-1501.'
+- input: What are the ISM mappings for 'Patch Operating Systems' under maturity level
+    M3?
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 3 (ML3) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1703,
+    ISM-1900, ISM-1877, ISM-1694, ISM-1696, ISM-1902, ISM-1879, ISM-1697, ISM-1903,
+    ISM-1904, ISM-1407, ISM-1501.'
+- input: I need ISM controls linked to the E8 strategy 'Patch Operating Systems' at
+    Maturity Level 3 (ML3).
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 3 (ML3) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1703,
+    ISM-1900, ISM-1877, ISM-1694, ISM-1696, ISM-1902, ISM-1879, ISM-1697, ISM-1903,
+    ISM-1904, ISM-1407, ISM-1501.'
+- input: List the ISM controls applicable to 'Patch Operating Systems' strategy at
+    Maturity Level 3 (ML3).
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 3 (ML3) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1703,
+    ISM-1900, ISM-1877, ISM-1694, ISM-1696, ISM-1902, ISM-1879, ISM-1697, ISM-1903,
+    ISM-1904, ISM-1407, ISM-1501.'
+- input: Provide the ISM control list for the E8 strategy 'Patch Operating Systems'
+    when assessed at Maturity Level 3 (ML3).
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 3 (ML3) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1703,
+    ISM-1900, ISM-1877, ISM-1694, ISM-1696, ISM-1902, ISM-1879, ISM-1697, ISM-1903,
+    ISM-1904, ISM-1407, ISM-1501.'
+- input: Tell me which ISM controls are linked to 'Patch Operating Systems' for Maturity
+    Level 3 (ML3).
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 3 (ML3) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1703,
+    ISM-1900, ISM-1877, ISM-1694, ISM-1696, ISM-1902, ISM-1879, ISM-1697, ISM-1903,
+    ISM-1904, ISM-1407, ISM-1501.'
+- input: How does the strategy 'Patch Operating Systems' align with ISM controls at
+    Maturity Level 3 (ML3)?
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 3 (ML3) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1703,
+    ISM-1900, ISM-1877, ISM-1694, ISM-1696, ISM-1902, ISM-1879, ISM-1697, ISM-1903,
+    ISM-1904, ISM-1407, ISM-1501.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Patch
+    Operating Systems' at Maturity Level 3 (ML3).
+  response: 'The strategy ''Patch Operating Systems'' at Maturity Level 3 (ML3) maps
+    to the following ISM controls: ISM-1807, ISM-1808, ISM-1701, ISM-1702, ISM-1703,
+    ISM-1900, ISM-1877, ISM-1694, ISM-1696, ISM-1902, ISM-1879, ISM-1697, ISM-1903,
+    ISM-1904, ISM-1407, ISM-1501.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Multi-factor
+    Authentication' for Maturity Level 3 (ML3)?
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1505, ISM-1401, ISM-1872, ISM-1874, ISM-1682,
+    ISM-1894, ISM-1683, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123,
+    ISM-0140, ISM-1819.'
+- input: Can you provide the ISM controls for 'Multi-factor Authentication' at Maturity
+    Level 3 (ML3)?
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1505, ISM-1401, ISM-1872, ISM-1874, ISM-1682,
+    ISM-1894, ISM-1683, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123,
+    ISM-0140, ISM-1819.'
+- input: for Maturity Level 3 (ML3), what ISM controls correspond to the strategy
+    'Multi-factor Authentication'?
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1505, ISM-1401, ISM-1872, ISM-1874, ISM-1682,
+    ISM-1894, ISM-1683, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123,
+    ISM-0140, ISM-1819.'
+- input: What are the ISM mappings for 'Multi-factor Authentication' under maturity
+    level M3?
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1505, ISM-1401, ISM-1872, ISM-1874, ISM-1682,
+    ISM-1894, ISM-1683, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123,
+    ISM-0140, ISM-1819.'
+- input: I need ISM controls linked to the E8 strategy 'Multi-factor Authentication'
+    at Maturity Level 3 (ML3).
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1505, ISM-1401, ISM-1872, ISM-1874, ISM-1682,
+    ISM-1894, ISM-1683, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123,
+    ISM-0140, ISM-1819.'
+- input: List the ISM controls applicable to 'Multi-factor Authentication' strategy
+    at Maturity Level 3 (ML3).
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1505, ISM-1401, ISM-1872, ISM-1874, ISM-1682,
+    ISM-1894, ISM-1683, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123,
+    ISM-0140, ISM-1819.'
+- input: Provide the ISM control list for the E8 strategy 'Multi-factor Authentication'
+    when assessed at Maturity Level 3 (ML3).
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1505, ISM-1401, ISM-1872, ISM-1874, ISM-1682,
+    ISM-1894, ISM-1683, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123,
+    ISM-0140, ISM-1819.'
+- input: Tell me which ISM controls are linked to 'Multi-factor Authentication' for
+    Maturity Level 3 (ML3).
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1505, ISM-1401, ISM-1872, ISM-1874, ISM-1682,
+    ISM-1894, ISM-1683, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123,
+    ISM-0140, ISM-1819.'
+- input: How does the strategy 'Multi-factor Authentication' align with ISM controls
+    at Maturity Level 3 (ML3)?
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1505, ISM-1401, ISM-1872, ISM-1874, ISM-1682,
+    ISM-1894, ISM-1683, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123,
+    ISM-0140, ISM-1819.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Multi-factor
+    Authentication' at Maturity Level 3 (ML3).
+  response: 'The strategy ''Multi-factor Authentication'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893,
+    ISM-1681, ISM-1173, ISM-0974, ISM-1505, ISM-1401, ISM-1872, ISM-1874, ISM-1682,
+    ISM-1894, ISM-1683, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123,
+    ISM-0140, ISM-1819.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Restrict
+    Administrative Privileges' for Maturity Level 3 (ML3)?
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    3 (ML3) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1508, ISM-1175, ISM-1883, ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689,
+    ISM-1649, ISM-1387, ISM-1685, ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Can you provide the ISM controls for 'Restrict Administrative Privileges'
+    at Maturity Level 3 (ML3)?
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    3 (ML3) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1508, ISM-1175, ISM-1883, ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689,
+    ISM-1649, ISM-1387, ISM-1685, ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: for Maturity Level 3 (ML3), what ISM controls correspond to the strategy
+    'Restrict Administrative Privileges'?
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    3 (ML3) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1508, ISM-1175, ISM-1883, ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689,
+    ISM-1649, ISM-1387, ISM-1685, ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: What are the ISM mappings for 'Restrict Administrative Privileges' under
+    maturity level M3?
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    3 (ML3) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1508, ISM-1175, ISM-1883, ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689,
+    ISM-1649, ISM-1387, ISM-1685, ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: I need ISM controls linked to the E8 strategy 'Restrict Administrative Privileges'
+    at Maturity Level 3 (ML3).
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    3 (ML3) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1508, ISM-1175, ISM-1883, ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689,
+    ISM-1649, ISM-1387, ISM-1685, ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: List the ISM controls applicable to 'Restrict Administrative Privileges'
+    strategy at Maturity Level 3 (ML3).
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    3 (ML3) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1508, ISM-1175, ISM-1883, ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689,
+    ISM-1649, ISM-1387, ISM-1685, ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Provide the ISM control list for the E8 strategy 'Restrict Administrative
+    Privileges' when assessed at Maturity Level 3 (ML3).
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    3 (ML3) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1508, ISM-1175, ISM-1883, ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689,
+    ISM-1649, ISM-1387, ISM-1685, ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Tell me which ISM controls are linked to 'Restrict Administrative Privileges'
+    for Maturity Level 3 (ML3).
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    3 (ML3) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1508, ISM-1175, ISM-1883, ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689,
+    ISM-1649, ISM-1387, ISM-1685, ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: How does the strategy 'Restrict Administrative Privileges' align with ISM
+    controls at Maturity Level 3 (ML3)?
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    3 (ML3) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1508, ISM-1175, ISM-1883, ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689,
+    ISM-1649, ISM-1387, ISM-1685, ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Restrict
+    Administrative Privileges' at Maturity Level 3 (ML3).
+  response: 'The strategy ''Restrict Administrative Privileges'' at Maturity Level
+    3 (ML3) maps to the following ISM controls: ISM-1507, ISM-1647, ISM-1648, ISM-0445,
+    ISM-1508, ISM-1175, ISM-1883, ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689,
+    ISM-1649, ISM-1387, ISM-1685, ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509,
+    ISM-1650, ISM-1815, ISM-1906, ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140,
+    ISM-1819.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Application
+    Control' for Maturity Level 3 (ML3)?
+  response: 'The strategy ''Application Control'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871,
+    ISM-1657, ISM-1658, ISM-1544, ISM-1659, ISM-1582, ISM-1660, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Can you provide the ISM controls for 'Application Control' at Maturity Level
+    3 (ML3)?
+  response: 'The strategy ''Application Control'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871,
+    ISM-1657, ISM-1658, ISM-1544, ISM-1659, ISM-1582, ISM-1660, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: for Maturity Level 3 (ML3), what ISM controls correspond to the strategy
+    'Application Control'?
+  response: 'The strategy ''Application Control'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871,
+    ISM-1657, ISM-1658, ISM-1544, ISM-1659, ISM-1582, ISM-1660, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: What are the ISM mappings for 'Application Control' under maturity level
+    M3?
+  response: 'The strategy ''Application Control'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871,
+    ISM-1657, ISM-1658, ISM-1544, ISM-1659, ISM-1582, ISM-1660, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: I need ISM controls linked to the E8 strategy 'Application Control' at Maturity
+    Level 3 (ML3).
+  response: 'The strategy ''Application Control'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871,
+    ISM-1657, ISM-1658, ISM-1544, ISM-1659, ISM-1582, ISM-1660, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: List the ISM controls applicable to 'Application Control' strategy at Maturity
+    Level 3 (ML3).
+  response: 'The strategy ''Application Control'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871,
+    ISM-1657, ISM-1658, ISM-1544, ISM-1659, ISM-1582, ISM-1660, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Provide the ISM control list for the E8 strategy 'Application Control' when
+    assessed at Maturity Level 3 (ML3).
+  response: 'The strategy ''Application Control'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871,
+    ISM-1657, ISM-1658, ISM-1544, ISM-1659, ISM-1582, ISM-1660, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Tell me which ISM controls are linked to 'Application Control' for Maturity
+    Level 3 (ML3).
+  response: 'The strategy ''Application Control'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871,
+    ISM-1657, ISM-1658, ISM-1544, ISM-1659, ISM-1582, ISM-1660, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: How does the strategy 'Application Control' align with ISM controls at Maturity
+    Level 3 (ML3)?
+  response: 'The strategy ''Application Control'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871,
+    ISM-1657, ISM-1658, ISM-1544, ISM-1659, ISM-1582, ISM-1660, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Application
+    Control' at Maturity Level 3 (ML3).
+  response: 'The strategy ''Application Control'' at Maturity Level 3 (ML3) maps to
+    the following ISM controls: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871,
+    ISM-1657, ISM-1658, ISM-1544, ISM-1659, ISM-1582, ISM-1660, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Restrict
+    Microsoft Office Macros' for Maturity Level 3 (ML3)?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 3
+    (ML3) maps to the following ISM controls: ISM-1671, ISM-1674, ISM-1890, ISM-1487,
+    ISM-1675, ISM-1891, ISM-1676, ISM-1488, ISM-1672, ISM-1673, ISM-1489.'
+- input: Can you provide the ISM controls for 'Restrict Microsoft Office Macros' at
+    Maturity Level 3 (ML3)?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 3
+    (ML3) maps to the following ISM controls: ISM-1671, ISM-1674, ISM-1890, ISM-1487,
+    ISM-1675, ISM-1891, ISM-1676, ISM-1488, ISM-1672, ISM-1673, ISM-1489.'
+- input: for Maturity Level 3 (ML3), what ISM controls correspond to the strategy
+    'Restrict Microsoft Office Macros'?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 3
+    (ML3) maps to the following ISM controls: ISM-1671, ISM-1674, ISM-1890, ISM-1487,
+    ISM-1675, ISM-1891, ISM-1676, ISM-1488, ISM-1672, ISM-1673, ISM-1489.'
+- input: What are the ISM mappings for 'Restrict Microsoft Office Macros' under maturity
+    level M3?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 3
+    (ML3) maps to the following ISM controls: ISM-1671, ISM-1674, ISM-1890, ISM-1487,
+    ISM-1675, ISM-1891, ISM-1676, ISM-1488, ISM-1672, ISM-1673, ISM-1489.'
+- input: I need ISM controls linked to the E8 strategy 'Restrict Microsoft Office
+    Macros' at Maturity Level 3 (ML3).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 3
+    (ML3) maps to the following ISM controls: ISM-1671, ISM-1674, ISM-1890, ISM-1487,
+    ISM-1675, ISM-1891, ISM-1676, ISM-1488, ISM-1672, ISM-1673, ISM-1489.'
+- input: List the ISM controls applicable to 'Restrict Microsoft Office Macros' strategy
+    at Maturity Level 3 (ML3).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 3
+    (ML3) maps to the following ISM controls: ISM-1671, ISM-1674, ISM-1890, ISM-1487,
+    ISM-1675, ISM-1891, ISM-1676, ISM-1488, ISM-1672, ISM-1673, ISM-1489.'
+- input: Provide the ISM control list for the E8 strategy 'Restrict Microsoft Office
+    Macros' when assessed at Maturity Level 3 (ML3).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 3
+    (ML3) maps to the following ISM controls: ISM-1671, ISM-1674, ISM-1890, ISM-1487,
+    ISM-1675, ISM-1891, ISM-1676, ISM-1488, ISM-1672, ISM-1673, ISM-1489.'
+- input: Tell me which ISM controls are linked to 'Restrict Microsoft Office Macros'
+    for Maturity Level 3 (ML3).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 3
+    (ML3) maps to the following ISM controls: ISM-1671, ISM-1674, ISM-1890, ISM-1487,
+    ISM-1675, ISM-1891, ISM-1676, ISM-1488, ISM-1672, ISM-1673, ISM-1489.'
+- input: How does the strategy 'Restrict Microsoft Office Macros' align with ISM controls
+    at Maturity Level 3 (ML3)?
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 3
+    (ML3) maps to the following ISM controls: ISM-1671, ISM-1674, ISM-1890, ISM-1487,
+    ISM-1675, ISM-1891, ISM-1676, ISM-1488, ISM-1672, ISM-1673, ISM-1489.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Restrict
+    Microsoft Office Macros' at Maturity Level 3 (ML3).
+  response: 'The strategy ''Restrict Microsoft Office Macros'' at Maturity Level 3
+    (ML3) maps to the following ISM controls: ISM-1671, ISM-1674, ISM-1890, ISM-1487,
+    ISM-1675, ISM-1891, ISM-1676, ISM-1488, ISM-1672, ISM-1673, ISM-1489.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'User
+    Application Hardening' for Maturity Level 3 (ML3)?
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1655, ISM-1621, ISM-1622, ISM-1623, ISM-1889, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Can you provide the ISM controls for 'User Application Hardening' at Maturity
+    Level 3 (ML3)?
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1655, ISM-1621, ISM-1622, ISM-1623, ISM-1889, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: for Maturity Level 3 (ML3), what ISM controls correspond to the strategy
+    'User Application Hardening'?
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1655, ISM-1621, ISM-1622, ISM-1623, ISM-1889, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: What are the ISM mappings for 'User Application Hardening' under maturity
+    level M3?
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1655, ISM-1621, ISM-1622, ISM-1623, ISM-1889, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: I need ISM controls linked to the E8 strategy 'User Application Hardening'
+    at Maturity Level 3 (ML3).
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1655, ISM-1621, ISM-1622, ISM-1623, ISM-1889, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: List the ISM controls applicable to 'User Application Hardening' strategy
+    at Maturity Level 3 (ML3).
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1655, ISM-1621, ISM-1622, ISM-1623, ISM-1889, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Provide the ISM control list for the E8 strategy 'User Application Hardening'
+    when assessed at Maturity Level 3 (ML3).
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1655, ISM-1621, ISM-1622, ISM-1623, ISM-1889, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Tell me which ISM controls are linked to 'User Application Hardening' for
+    Maturity Level 3 (ML3).
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1655, ISM-1621, ISM-1622, ISM-1623, ISM-1889, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: How does the strategy 'User Application Hardening' align with ISM controls
+    at Maturity Level 3 (ML3)?
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1655, ISM-1621, ISM-1622, ISM-1623, ISM-1889, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'User
+    Application Hardening' at Maturity Level 3 (ML3).
+  response: 'The strategy ''User Application Hardening'' at Maturity Level 3 (ML3)
+    maps to the following ISM controls: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585,
+    ISM-1667, ISM-1668, ISM-1669, ISM-1542, ISM-1859, ISM-1823, ISM-1670, ISM-1860,
+    ISM-1824, ISM-1655, ISM-1621, ISM-1622, ISM-1623, ISM-1889, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819.'
+- input: Which ISM controls are associated with the Essential Eight strategy 'Regular
+    Backups' for Maturity Level 3 (ML3)?
+  response: 'The strategy ''Regular Backups'' at Maturity Level 3 (ML3) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813,
+    ISM-1705, ISM-1706, ISM-1814, ISM-1707, ISM-1708.'
+- input: Can you provide the ISM controls for 'Regular Backups' at Maturity Level
+    3 (ML3)?
+  response: 'The strategy ''Regular Backups'' at Maturity Level 3 (ML3) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813,
+    ISM-1705, ISM-1706, ISM-1814, ISM-1707, ISM-1708.'
+- input: for Maturity Level 3 (ML3), what ISM controls correspond to the strategy
+    'Regular Backups'?
+  response: 'The strategy ''Regular Backups'' at Maturity Level 3 (ML3) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813,
+    ISM-1705, ISM-1706, ISM-1814, ISM-1707, ISM-1708.'
+- input: What are the ISM mappings for 'Regular Backups' under maturity level M3?
+  response: 'The strategy ''Regular Backups'' at Maturity Level 3 (ML3) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813,
+    ISM-1705, ISM-1706, ISM-1814, ISM-1707, ISM-1708.'
+- input: I need ISM controls linked to the E8 strategy 'Regular Backups' at Maturity
+    Level 3 (ML3).
+  response: 'The strategy ''Regular Backups'' at Maturity Level 3 (ML3) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813,
+    ISM-1705, ISM-1706, ISM-1814, ISM-1707, ISM-1708.'
+- input: List the ISM controls applicable to 'Regular Backups' strategy at Maturity
+    Level 3 (ML3).
+  response: 'The strategy ''Regular Backups'' at Maturity Level 3 (ML3) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813,
+    ISM-1705, ISM-1706, ISM-1814, ISM-1707, ISM-1708.'
+- input: Provide the ISM control list for the E8 strategy 'Regular Backups' when assessed
+    at Maturity Level 3 (ML3).
+  response: 'The strategy ''Regular Backups'' at Maturity Level 3 (ML3) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813,
+    ISM-1705, ISM-1706, ISM-1814, ISM-1707, ISM-1708.'
+- input: Tell me which ISM controls are linked to 'Regular Backups' for Maturity Level
+    3 (ML3).
+  response: 'The strategy ''Regular Backups'' at Maturity Level 3 (ML3) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813,
+    ISM-1705, ISM-1706, ISM-1814, ISM-1707, ISM-1708.'
+- input: How does the strategy 'Regular Backups' align with ISM controls at Maturity
+    Level 3 (ML3)?
+  response: 'The strategy ''Regular Backups'' at Maturity Level 3 (ML3) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813,
+    ISM-1705, ISM-1706, ISM-1814, ISM-1707, ISM-1708.'
+- input: Explain the ISM controls that support the Essential Eight strategy 'Regular
+    Backups' at Maturity Level 3 (ML3).
+  response: 'The strategy ''Regular Backups'' at Maturity Level 3 (ML3) maps to the
+    following ISM controls: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813,
+    ISM-1705, ISM-1706, ISM-1814, ISM-1707, ISM-1708.'
+- input: List ISM controls for 'Patch Applications' for Maturity Level 1 (ML1)
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876, ISM-1690, ISM-1691,
+    ISM-1905, ISM-1704
+- input: What are the ISM controls for strategy 'Patch Applications' under Maturity
+    Level 1 (ML1)?
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876, ISM-1690, ISM-1691,
+    ISM-1905, ISM-1704
+- input: For Maturity Level 1 (ML1), what are the ISM controls applicable for  'Patch
+    Applications'?
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876, ISM-1690, ISM-1691,
+    ISM-1905, ISM-1704
+- input: Which ISM controls must be implemented for 'Patch Applications' for Maturity
+    Level 1 (ML1)?
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1876, ISM-1690, ISM-1691,
+    ISM-1905, ISM-1704
+- input: List ISM controls for 'Patch Applications' for Maturity Maturity Level 2
+    (ML2)
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700, ISM-1876, ISM-1690,
+    ISM-1691, ISM-1693, ISM-1905, ISM-1704
+- input: What are the ISM controls for strategy 'Patch Applications' under Maturity
+    Maturity Level 2 (ML2)?
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700, ISM-1876, ISM-1690,
+    ISM-1691, ISM-1693, ISM-1905, ISM-1704
+- input: For Maturity Maturity Level 2 (ML2), what are the ISM controls applicable
+    for  'Patch Applications'?
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700, ISM-1876, ISM-1690,
+    ISM-1691, ISM-1693, ISM-1905, ISM-1704
+- input: Which ISM controls must be implemented for 'Patch Applications' for Maturity
+    Level 2 (ML2)?
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700, ISM-1876, ISM-1690,
+    ISM-1691, ISM-1693, ISM-1905, ISM-1704
+- input: List ISM controls for 'Patch Applications' for Maturity Level 3 (ML3)
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700, ISM-1876, ISM-1690,
+    ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304
+- input: What are the ISM controls for strategy 'Patch Applications' under Maturity
+    Level 3 (ML3)?
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700, ISM-1876, ISM-1690,
+    ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304
+- input: For Maturity Level 3 (ML3), what are the ISM controls applicable for  'Patch
+    Applications'?
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700, ISM-1876, ISM-1690,
+    ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304
+- input: Which ISM controls must be implemented for 'Patch Applications' for Maturity
+    Level 3 (ML3)?
+  response: ISM-1807, ISM-1808, ISM-1698, ISM-1699, ISM-1700, ISM-1876, ISM-1690,
+    ISM-1692, ISM-1901, ISM-1693, ISM-1905, ISM-1704, ISM-0304
+- input: List ISM controls for 'Restrict Administrative Privileges' for Maturity Level
+    1 (ML1)
+  response: ISM-1507, ISM-0445, ISM-1175, ISM-1883, ISM-1380, ISM-1688, ISM-1689
+- input: What are the ISM controls for strategy 'Restrict Administrative Privileges'
+    under Maturity Level 1 (ML1)?
+  response: ISM-1507, ISM-0445, ISM-1175, ISM-1883, ISM-1380, ISM-1688, ISM-1689
+- input: For Maturity Level 1 (ML1), what are the ISM controls applicable for  'Restrict
+    Administrative Privileges'?
+  response: ISM-1507, ISM-0445, ISM-1175, ISM-1883, ISM-1380, ISM-1688, ISM-1689
+- input: Which ISM controls must be implemented for 'Restrict Administrative Privileges'
+    for Maturity Level 1 (ML1)?
+  response: ISM-1507, ISM-0445, ISM-1175, ISM-1883, ISM-1380, ISM-1688, ISM-1689
+- input: List ISM controls for 'Restrict Administrative Privileges' for Maturity Maturity
+    Level 2 (ML2)
+  response: ISM-1507, ISM-1647, ISM-1648, ISM-0445, ISM-1175, ISM-1883, ISM-1380,
+    ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509, ISM-1650, ISM-1815, ISM-1906,
+    ISM-1228, ISM-0123, ISM-0140, ISM-1819
+- input: What are the ISM controls for strategy 'Restrict Administrative Privileges'
+    under Maturity Maturity Level 2 (ML2)?
+  response: ISM-1507, ISM-1647, ISM-1648, ISM-0445, ISM-1175, ISM-1883, ISM-1380,
+    ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509, ISM-1650, ISM-1815, ISM-1906,
+    ISM-1228, ISM-0123, ISM-0140, ISM-1819
+- input: For Maturity Maturity Level 2 (ML2), what are the ISM controls applicable
+    for  'Restrict Administrative Privileges'?
+  response: ISM-1507, ISM-1647, ISM-1648, ISM-0445, ISM-1175, ISM-1883, ISM-1380,
+    ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509, ISM-1650, ISM-1815, ISM-1906,
+    ISM-1228, ISM-0123, ISM-0140, ISM-1819
+- input: Which ISM controls must be implemented for 'Restrict Administrative Privileges'
+    for Maturity Level 2 (ML2)?
+  response: ISM-1507, ISM-1647, ISM-1648, ISM-0445, ISM-1175, ISM-1883, ISM-1380,
+    ISM-1687, ISM-1688, ISM-1387, ISM-1685, ISM-1509, ISM-1650, ISM-1815, ISM-1906,
+    ISM-1228, ISM-0123, ISM-0140, ISM-1819
+- input: List ISM controls for 'Restrict Administrative Privileges' for Maturity Level
+    3 (ML3)
+  response: ISM-1507, ISM-1647, ISM-1648, ISM-0445, ISM-1508, ISM-1175, ISM-1883,
+    ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689, ISM-1649, ISM-1387, ISM-1685,
+    ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509, ISM-1650, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819
+- input: What are the ISM controls for strategy 'Restrict Administrative Privileges'
+    under Maturity Level 3 (ML3)?
+  response: ISM-1507, ISM-1647, ISM-1648, ISM-0445, ISM-1508, ISM-1175, ISM-1883,
+    ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689, ISM-1649, ISM-1387, ISM-1685,
+    ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509, ISM-1650, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819
+- input: For Maturity Level 3 (ML3), what are the ISM controls applicable for  'Restrict
+    Administrative Privileges'?
+  response: ISM-1507, ISM-1647, ISM-1648, ISM-0445, ISM-1508, ISM-1175, ISM-1883,
+    ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689, ISM-1649, ISM-1387, ISM-1685,
+    ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509, ISM-1650, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819
+- input: Which ISM controls must be implemented for 'Restrict Administrative Privileges'
+    for Maturity Level 3 (ML3)?
+  response: ISM-1507, ISM-1647, ISM-1648, ISM-0445, ISM-1508, ISM-1175, ISM-1883,
+    ISM-1898, ISM-1380, ISM-1687, ISM-1688, ISM-1689, ISM-1649, ISM-1387, ISM-1685,
+    ISM-1896, ISM-1861, ISM-1686, ISM-1897, ISM-1509, ISM-1650, ISM-1815, ISM-1906,
+    ISM-1907, ISM-0109, ISM-1228, ISM-0123, ISM-0140, ISM-1819
+- input: List ISM controls for 'Application Control' for Maturity Level 1 (ML1)
+  response: ISM-0843, ISM-1870, ISM-1657
+- input: What are the ISM controls for strategy 'Application Control' under Maturity
+    Level 1 (ML1)?
+  response: ISM-0843, ISM-1870, ISM-1657
+- input: For Maturity Level 1 (ML1), what are the ISM controls applicable for  'Application
+    Control'?
+  response: ISM-0843, ISM-1870, ISM-1657
+- input: Which ISM controls must be implemented for 'Application Control' for Maturity
+    Level 1 (ML1)?
+  response: ISM-0843, ISM-1870, ISM-1657
+- input: List ISM controls for 'Application Control' for Maturity Maturity Level 2
+    (ML2)
+  response: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657, ISM-1544, ISM-1582,
+    ISM-1660
+- input: What are the ISM controls for strategy 'Application Control' under Maturity
+    Maturity Level 2 (ML2)?
+  response: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657, ISM-1544, ISM-1582,
+    ISM-1660
+- input: For Maturity Maturity Level 2 (ML2), what are the ISM controls applicable
+    for  'Application Control'?
+  response: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657, ISM-1544, ISM-1582,
+    ISM-1660
+- input: Which ISM controls must be implemented for 'Application Control' for Maturity
+    Level 2 (ML2)?
+  response: ISM-0843, ISM-1490, ISM-1870, ISM-1871, ISM-1657, ISM-1544, ISM-1582,
+    ISM-1660
+- input: List ISM controls for 'Application Control' for Maturity Level 3 (ML3)
+  response: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871, ISM-1657, ISM-1658,
+    ISM-1544, ISM-1659, ISM-1582, ISM-1660
+- input: What are the ISM controls for strategy 'Application Control' under Maturity
+    Level 3 (ML3)?
+  response: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871, ISM-1657, ISM-1658,
+    ISM-1544, ISM-1659, ISM-1582, ISM-1660
+- input: For Maturity Level 3 (ML3), what are the ISM controls applicable for  'Application
+    Control'?
+  response: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871, ISM-1657, ISM-1658,
+    ISM-1544, ISM-1659, ISM-1582, ISM-1660
+- input: Which ISM controls must be implemented for 'Application Control' for Maturity
+    Level 3 (ML3)?
+  response: ISM-0843, ISM-1490, ISM-1656, ISM-1870, ISM-1871, ISM-1657, ISM-1658,
+    ISM-1544, ISM-1659, ISM-1582, ISM-1660
+- input: List ISM controls for 'Multi-factor Authentication' for Maturity Level 1
+    (ML1)
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1401
+- input: What are the ISM controls for strategy 'Multi-factor Authentication' under
+    Maturity Level 1 (ML1)?
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1401
+- input: For Maturity Level 1 (ML1), what are the ISM controls applicable for  'Multi-factor
+    Authentication'?
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1401
+- input: Which ISM controls must be implemented for 'Multi-factor Authentication'
+    for Maturity Level 1 (ML1)?
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1401
+- input: List ISM controls for 'Multi-factor Authentication' for Maturity Maturity
+    Level 2 (ML2)
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1173,
+    ISM-0974, ISM-1401
+- input: What are the ISM controls for strategy 'Multi-factor Authentication' under
+    Maturity Maturity Level 2 (ML2)?
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1173,
+    ISM-0974, ISM-1401
+- input: For Maturity Maturity Level 2 (ML2), what are the ISM controls applicable
+    for  'Multi-factor Authentication'?
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1173,
+    ISM-0974, ISM-1401
+- input: Which ISM controls must be implemented for 'Multi-factor Authentication'
+    for Maturity Level 2 (ML2)?
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1173,
+    ISM-0974, ISM-1401
+- input: List ISM controls for 'Multi-factor Authentication' for Maturity Level 3
+    (ML3)
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1173,
+    ISM-0974, ISM-1505, ISM-1401
+- input: What are the ISM controls for strategy 'Multi-factor Authentication' under
+    Maturity Level 3 (ML3)?
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1173,
+    ISM-0974, ISM-1505, ISM-1401
+- input: For Maturity Level 3 (ML3), what are the ISM controls applicable for  'Multi-factor
+    Authentication'?
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1173,
+    ISM-0974, ISM-1505, ISM-1401
+- input: Which ISM controls must be implemented for 'Multi-factor Authentication'
+    for Maturity Level 3 (ML3)?
+  response: ISM-1504, ISM-1679, ISM-1680, ISM-1892, ISM-1893, ISM-1681, ISM-1173,
+    ISM-0974, ISM-1505, ISM-1401
+- input: List ISM controls for 'User Application Hardening' for Maturity Level 1 (ML1)
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1585
+- input: What are the ISM controls for strategy 'User Application Hardening' under
+    Maturity Level 1 (ML1)?
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1585
+- input: For Maturity Level 1 (ML1), what are the ISM controls applicable for  'User
+    Application Hardening'?
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1585
+- input: Which ISM controls must be implemented for 'User Application Hardening' for
+    Maturity Level 1 (ML1)?
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1585
+- input: List ISM controls for 'User Application Hardening' for Maturity Maturity
+    Level 2 (ML2)
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585, ISM-1667, ISM-1668,
+    ISM-1669
+- input: What are the ISM controls for strategy 'User Application Hardening' under
+    Maturity Maturity Level 2 (ML2)?
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585, ISM-1667, ISM-1668,
+    ISM-1669
+- input: For Maturity Maturity Level 2 (ML2), what are the ISM controls applicable
+    for  'User Application Hardening'?
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585, ISM-1667, ISM-1668,
+    ISM-1669
+- input: Which ISM controls must be implemented for 'User Application Hardening' for
+    Maturity Level 2 (ML2)?
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585, ISM-1667, ISM-1668,
+    ISM-1669
+- input: List ISM controls for 'User Application Hardening' for Maturity Level 3 (ML3)
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585, ISM-1667, ISM-1668,
+    ISM-1669, ISM-1655, ISM-1621
+- input: What are the ISM controls for strategy 'User Application Hardening' under
+    Maturity Level 3 (ML3)?
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585, ISM-1667, ISM-1668,
+    ISM-1669, ISM-1655, ISM-1621
+- input: For Maturity Level 3 (ML3), what are the ISM controls applicable for  'User
+    Application Hardening'?
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585, ISM-1667, ISM-1668,
+    ISM-1669, ISM-1655, ISM-1621
+- input: Which ISM controls must be implemented for 'User Application Hardening' for
+    Maturity Level 3 (ML3)?
+  response: ISM-1654, ISM-1486, ISM-1485, ISM-1412, ISM-1585, ISM-1667, ISM-1668,
+    ISM-1669, ISM-1655, ISM-1621
+- input: List ISM controls for 'Restrict Microsoft Office Macros' for Maturity Level
+    1 (ML1)
+  response: ISM-1671, ISM-1488, ISM-1672, ISM-1489
+- input: What are the ISM controls for strategy 'Restrict Microsoft Office Macros'
+    under Maturity Level 1 (ML1)?
+  response: ISM-1671, ISM-1488, ISM-1672, ISM-1489
+- input: For Maturity Level 1 (ML1), what are the ISM controls applicable for  'Restrict
+    Microsoft Office Macros'?
+  response: ISM-1671, ISM-1488, ISM-1672, ISM-1489
+- input: Which ISM controls must be implemented for 'Restrict Microsoft Office Macros'
+    for Maturity Level 1 (ML1)?
+  response: ISM-1671, ISM-1488, ISM-1672, ISM-1489
+- input: List ISM controls for 'Restrict Microsoft Office Macros' for Maturity Maturity
+    Level 2 (ML2)
+  response: ISM-1671, ISM-1488, ISM-1672, ISM-1673, ISM-1489
+- input: What are the ISM controls for strategy 'Restrict Microsoft Office Macros'
+    under Maturity Maturity Level 2 (ML2)?
+  response: ISM-1671, ISM-1488, ISM-1672, ISM-1673, ISM-1489
+- input: For Maturity Maturity Level 2 (ML2), what are the ISM controls applicable
+    for  'Restrict Microsoft Office Macros'?
+  response: ISM-1671, ISM-1488, ISM-1672, ISM-1673, ISM-1489
+- input: Which ISM controls must be implemented for 'Restrict Microsoft Office Macros'
+    for Maturity Level 2 (ML2)?
+  response: ISM-1671, ISM-1488, ISM-1672, ISM-1673, ISM-1489
+- input: List ISM controls for 'Restrict Microsoft Office Macros' for Maturity Level
+    3 (ML3)
+  response: ISM-1671, ISM-1674, ISM-1890, ISM-1487, ISM-1675
+- input: What are the ISM controls for strategy 'Restrict Microsoft Office Macros'
+    under Maturity Level 3 (ML3)?
+  response: ISM-1671, ISM-1674, ISM-1890, ISM-1487, ISM-1675
+- input: For Maturity Level 3 (ML3), what are the ISM controls applicable for  'Restrict
+    Microsoft Office Macros'?
+  response: ISM-1671, ISM-1674, ISM-1890, ISM-1487, ISM-1675
+- input: Which ISM controls must be implemented for 'Restrict Microsoft Office Macros'
+    for Maturity Level 3 (ML3)?
+  response: ISM-1671, ISM-1674, ISM-1890, ISM-1487, ISM-1675
+- input: List ISM controls for 'Regular Backups' for Maturity Level 1 (ML1)
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814
+- input: What are the ISM controls for strategy 'Regular Backups' under Maturity Level
+    1 (ML1)?
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814
+- input: For Maturity Level 1 (ML1), what are the ISM controls applicable for  'Regular
+    Backups'?
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814
+- input: Which ISM controls must be implemented for 'Regular Backups' for Maturity
+    Level 1 (ML1)?
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1814
+- input: List ISM controls for 'Regular Backups' for Maturity Maturity Level 2 (ML2)
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705, ISM-1814
+- input: What are the ISM controls for strategy 'Regular Backups' under Maturity Maturity
+    Level 2 (ML2)?
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705, ISM-1814
+- input: For Maturity Maturity Level 2 (ML2), what are the ISM controls applicable
+    for  'Regular Backups'?
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705, ISM-1814
+- input: Which ISM controls must be implemented for 'Regular Backups' for Maturity
+    Level 2 (ML2)?
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1705, ISM-1814
+- input: List ISM controls for 'Regular Backups' for Maturity Level 3 (ML3)
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813, ISM-1705,
+    ISM-1706
+- input: What are the ISM controls for strategy 'Regular Backups' under Maturity Level
+    3 (ML3)?
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813, ISM-1705,
+    ISM-1706
+- input: For Maturity Level 3 (ML3), what are the ISM controls applicable for  'Regular
+    Backups'?
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813, ISM-1705,
+    ISM-1706
+- input: Which ISM controls must be implemented for 'Regular Backups' for Maturity
+    Level 3 (ML3)?
+  response: ISM-1511, ISM-1810, ISM-1811, ISM-1515, ISM-1812, ISM-1813, ISM-1705,
+    ISM-1706

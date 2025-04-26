@@ -21,14 +21,34 @@ dataset = load_dataset("json", data_files={"train": jsonl_files}, split="train")
 dataset = dataset.filter(lambda x: "messages" in x and isinstance(x["messages"], list))
 
 
+# Format messages into ChatML-style training strings
+def format_messages(example):
+    parts = []
+    for msg in example["messages"]:
+        if msg["role"] == "user":
+            parts.append(f"<|user|>\n{msg['content']}")
+        elif msg["role"] == "assistant":
+            parts.append(f"<|assistant|>\n{msg['content']}")
+    return {"text": "\n".join(parts)}
+
+
+# Apply formatter
+formatted_dataset = dataset.map(format_messages)
+
+
+# Optional: print first few examples to verify
+for i in range(min(3, len(formatted_dataset))):
+    print(f"\n--- Example {i} ---\n{formatted_dataset[i]['text']}")
+
+
 # 3. Load tokenizer and base model (from Hugging Face or Ollama registry mirror)
 model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"  # or path to local LLaMA 3.1 8B
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
-    torch_dtype=torch.float32,  # or float16 if your GPU supports it
+    trust_remote_code=False,  # or float16 if your GPU supports it
     device_map="auto",  # will fall back to CPU
-    use_auth_token=True,
+    revision="main",
 )
 
 # 4. Prepare model for QLoRA
@@ -36,8 +56,8 @@ model = prepare_model_for_kbit_training(model)
 
 # 5. LoRA (PEFT) configuration
 peft_config = LoraConfig(
-    r=64,  # Low-rank dimension
-    lora_alpha=16,  # Scaling factor
+    r=8,  # Low-rank dimension
+    lora_alpha=32,  # Scaling factor
     lora_dropout=0.05,  # Dropout for regularization
     bias="none",  # No bias adaptation
     task_type="CAUSAL_LM",  # Causal Language Modeling
@@ -45,6 +65,7 @@ peft_config = LoraConfig(
 
 # 6. Apply LoRA
 model = get_peft_model(model, peft_config)
+model.print_trainable_parameters()  # Check trainable parameters
 
 # 7. Training arguments for QLoRA fine-tuning
 # training_args = TrainingArguments(
@@ -70,9 +91,10 @@ sft_config = SFTConfig(
     logging_steps=10,
     save_strategy="epoch",
     report_to="none",
-    fp16=True,
-    optim="paged_adamw_8bit",
+    fp16=False,
+    optim="adamw_torch",
     max_seq_length=2048,  # ✅ moved here
+    label_names=["labels"],
 )
 
 # 8. Train using SFTTrainer (supports chat-style messages)
@@ -84,14 +106,15 @@ sft_config = SFTConfig(
 #     dataset_text_field="messages",  # JSONL field used for instruction tuning
 #     max_seq_length=2048,  # Based on model context window
 # )
-print(dataset)
+print(formatted_dataset)
 
 
 trainer = SFTTrainer(
     model=model,
-    train_dataset=dataset,
+    train_dataset=formatted_dataset,
     args=sft_config,
 )
+
 # 9. Start training
 trainer.train()
 
